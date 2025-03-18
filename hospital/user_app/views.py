@@ -49,3 +49,5 @@ def doc_register(request):
 
 def search(request):
     return render(request,'search.html')
+
+############################################# END ################################################
